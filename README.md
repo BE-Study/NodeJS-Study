@@ -21,7 +21,8 @@
   
   
   [Node js Study Start! -김승래](https://velog.io/@ksrlogic/NOde-js-Study-Start)
-  
+  [ES6 const,let/비구조화할당/템플릿문자열](https://mcpejs.tistory.com/31)
+  [ES6 화살표함수](https://mcpejs.tistory.com/32)
   
   
   
