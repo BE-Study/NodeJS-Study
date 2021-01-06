@@ -21,14 +21,8 @@
   
   
   [Node js Study Start! -김승래](https://velog.io/@ksrlogic/NOde-js-Study-Start)
-
-  [ES6 const,let/비구조화할당/템플릿문자열 - 김지호](https://mcpejs.tistory.com/31)
-
-  [ES6 화살표함수 - 김지호](https://mcpejs.tistory.com/32)
   
   [자바스크립트 이벤트 루프에 대해. -김승래](https://velog.io/@ksrlogic/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%EC%9D%B4%EB%B2%A4%ED%8A%B8%EB%A3%A8%ED%94%84)
-  
-  [module.exports - 김지호](https://mcpejs.tistory.com/33)
   
   
   
